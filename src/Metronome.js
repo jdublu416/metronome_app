@@ -3,6 +3,7 @@ import "./Metronome.css";
 import click1 from "./click1.wav";
 import click2 from "./click2.wav";
 
+
 class Metronome extends Component {
   constructor(props) {
     super(props);
@@ -76,6 +77,7 @@ This calculation sets the click sound to bpm*/
           />
         </div>
         <button onClick={this.startStop}>{playing ? "Stop" : "Start"}</button>
+        
       </div>
     );
   }
