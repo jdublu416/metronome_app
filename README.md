@@ -6,18 +6,18 @@ bpm), start/stop metronome and change bpm with a slide.
 
 ## Get Started
 
-### Clone this repository
+Clone the repository:
 $ git clone https://github.com/jdublu/metronome_app
 
-### Go into the repository
+Change directory into the repository:
 $ cd metronome_app
 
-### Install dependencies
+Install dependencies:
 $ npm install
 
-### Run the app
+Run the app:
 $ npm start
 
-Or if you'd like to visit a deployed version, do that [here] (https://#)
+## Or if you'd like to visit a deployed version, do that [here] (https://#)
 
 copyright Janet Warren 2019
