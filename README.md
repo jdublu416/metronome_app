@@ -18,6 +18,6 @@ $ npm install
 Run the app:
 $ npm start
 
-## Or if you'd like to visit a deployed version, do that [here] (https://#)
+## Or if you'd like to visit a deployed version, do that [here] (https://eager-bartik-4e8687.netlify.com/)
 
 copyright Janet Warren 2019
